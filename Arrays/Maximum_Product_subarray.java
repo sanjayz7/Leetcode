@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     public int maxProduct(int[] nums) {
         int prefix = 1;
